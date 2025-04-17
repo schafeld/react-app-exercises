@@ -4,10 +4,15 @@ A React-based e-commerce app.
 
 Caution: This is work in progress.
 
-At the moment this is mostly following a tutorial, so there's no license (yet). I may add one later when there has been enough original refactoring and new features added.
+### TO BE CONTINUED AT
 
-Pick up at:
-https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/lecture/15351012#overview
+react-shop
+https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/lecture/30554056#overview
+
+crud-app
+https://www.coursera.org/learn/packt-reactjs-and-tailwind-css-fundamentals-szmrn/lecture/FOAqj/introduction-to-the-specialization
+
+At the moment this is mostly following a tutorial, so there's no license (yet). I may add one later when there has been enough original refactoring and new features added.
 
 ## Work Notes
 
