@@ -1,4 +1,4 @@
-# react-app-exercises
+# react-shop-exercise
 
 1 - A React-based e-commerce app.
 2 - A CRUD app (real etste listings)
